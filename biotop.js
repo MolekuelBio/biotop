@@ -1,5 +1,3 @@
-<script>
-
 // ---------------------------------------------------------------------------------------
 // Außenluftfeuchtigkeit
 
@@ -270,6 +268,3 @@ $('.gewichtstrend').each(function(){
 // G25 häufgste Pflanzensorten
 
 //231102_edna_neusserweg-chart
-
-
-</script>
