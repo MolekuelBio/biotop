@@ -1,5 +1,5 @@
 // ---------------------------------------------------------------------------------------
-// Außenluftfeuchtigkeit
+// Außenluftfeuchtigkeit check
 
 var valuearray_aussenluftfeuchtigkeit = [];
 var labelarray_aussenluftfeuchtigkeit = [];
